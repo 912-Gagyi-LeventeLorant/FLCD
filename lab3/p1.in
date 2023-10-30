@@ -1,0 +1,8 @@
+OnceUponATime.
+    Num is integer.
+    Hear(Num).
+    If Num is greater 10 proceed
+        Speak("The number is greater than 10.").
+    Otherwise
+        Speak("The number is 10 or smaller.").
+TheEnd.
