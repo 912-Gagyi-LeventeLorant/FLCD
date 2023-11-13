@@ -1,0 +1,8 @@
+OnceUponATime
+    Counter is integer.
+    Counter equals 1.
+    Loop, until Counter is smaller 6,
+        Speak("Count is: ", Counter).
+        Counter equals Counter + 1.
+    !
+TheEnd

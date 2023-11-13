@@ -1,0 +1,9 @@
+Footnote There is no OnceUponATime
+    Num is integer.
+    Hear >(num).
+    If Num is bigr 10 proceed.
+Footnote Lexical Error: "bigr" is not a recognized token.
+        Speak("The number is greater than 10.").
+    Otherwise
+        speak("The number is 10 or smaller.").
+TheEnd
